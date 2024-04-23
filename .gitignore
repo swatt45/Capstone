@@ -2,3 +2,4 @@ recommendations.csv
 users.csv
 games.csv
 games_metadata.json
+recommendations.parquet
