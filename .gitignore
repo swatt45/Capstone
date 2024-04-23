@@ -3,3 +3,4 @@ users.csv
 games.csv
 games_metadata.json
 recommendations.parquet
+.ipynb_checkpoints/EDA-checkpoint.ipynb
