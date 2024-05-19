@@ -6,3 +6,4 @@ recommendations.parquet
 .ipynb_checkpoints/EDA-checkpoint.ipynb
 .ipynb_checkpoints/D502 EDA-checkpoint.ipynb
 .ipynb_checkpoints/Untitled-checkpoint.ipynb
+*.tmp
